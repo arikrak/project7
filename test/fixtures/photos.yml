@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  date_time: 2011-12-22 00:11:10
+  file_name: MyString
+  belongs_to: 
+
+two:
+  date_time: 2011-12-22 00:11:10
+  file_name: MyString
+  belongs_to: 
